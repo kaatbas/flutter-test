@@ -12,7 +12,7 @@ Bu proje, Flutter ve Firebase kullanılarak oluşturulmuş, kullanıcı girişi 
 
 **Form alanları doluyken (açık ikon):**
 
-![Giriş Ekranı - Açık](assets/readme_images/asdasd2.png)
+![Giriş Ekranı - Açık](assets/readme_images/asdasd3.png)
 
 <br /> <!-- Görseller arasına ek boşluk için HTML br etiketi -->
 
@@ -20,9 +20,8 @@ Bu proje, Flutter ve Firebase kullanılarak oluşturulmuş, kullanıcı girişi 
 
 **Yeni kullanıcı kayıt formunun görünümü:**
 
-![Kayıt Ekranı](assets/readme_images/asdasd3.png)
+![Kayıt Ekranı](assets/readme_images/asdasd2.png)
 
-*(Lütfen yukarıdaki yolların projenizdeki gerçek dosya yollarıyla ve adlarıyla eşleştiğinden emin olun.)*
 
 ## Özellikler
 
