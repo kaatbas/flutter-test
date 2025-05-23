@@ -4,19 +4,25 @@ Bu proje, Flutter ve Firebase kullanılarak oluşturulmuş, kullanıcı girişi 
 
 ## Ekran Görüntüleri
 
-**Giriş Ekranı**
+### Giriş Ekranı
 
-*Form alanları boşken (kilitli ikon):*
+**Form alanları boşken (kilitli ikon):**
+
 ![Giriş Ekranı - Kilitli](assets/readme_images/asdasd1.png)
 
-*Form alanları doluyken (açık ikon):*
+**Form alanları doluyken (açık ikon):**
+
 ![Giriş Ekranı - Açık](assets/readme_images/asdasd2.png)
 
-**Kayıt Ekranı**
+<br /> <!-- Görseller arasına ek boşluk için HTML br etiketi -->
+
+### Kayıt Ekranı
+
+**Yeni kullanıcı kayıt formunun görünümü:**
 
 ![Kayıt Ekranı](assets/readme_images/asdasd3.png)
-*Yeni kullanıcı kayıt formunun görünümü.*
 
+*(Lütfen yukarıdaki yolların projenizdeki gerçek dosya yollarıyla ve adlarıyla eşleştiğinden emin olun.)*
 
 ## Özellikler
 
